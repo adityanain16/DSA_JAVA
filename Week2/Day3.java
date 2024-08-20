@@ -80,7 +80,6 @@ public class Day3 {
         // 1 0 0 0 ...
         // arr+='a';
         int[] arr= new int[10];
-        int[] nums= {1, 2, 3, 4, 5, 6};
         // nums=arr; //shallow copy
         arr[0]=1;
         arr[1]=2;
@@ -96,6 +95,4 @@ public class Day3 {
         // System.out.println(a+" "+b);
         // System.out.println("Hi");
     }
-}
-    
 }
