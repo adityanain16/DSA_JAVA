@@ -1,5 +1,4 @@
 package Week3;
-
 public class SelectionSort {
     static void Selectionsort(int[] arr){
         for(int i=0;i<arr.length-1;i++){
